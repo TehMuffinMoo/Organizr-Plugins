@@ -21,5 +21,23 @@
       "Settings": "https://i.imgur.com/8E84afa.png",
       "Menu Item": "https://i.imgur.com/zRrAEhO.png"
     }
+  },
+  "Register IP": {
+    "repo": "https://github.com/TehMuffinMoo/RegisterIP",
+    "author": "TehMuffinMoo",
+    "category": "Access Management",
+    "description": "This plugin allows you to require users to register their IP within Organizr before accessing Plex. This requires the use of PfSense IP Tables.",
+    "icon": "https://raw.githubusercontent.com/TehMuffinMoo/RegisterIP/main/logo.png",
+    "contact": "https://discordapp.com/users/293873371379400705",
+    "website": "https://github.com/TehMuffinMoo/RegisterIP",
+    "version": "1.0.0",
+    "minimum_organizr_version": "2.1.725",
+    "release_date": "2021-10-03",
+    "last_updated": "2021-10-11",
+    "github_folder": "root",
+    "project_folder": "registerIP",
+    "license": "personal,business",
+    "images": {
+    }
   }
 }
